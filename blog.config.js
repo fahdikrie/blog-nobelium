@@ -17,7 +17,7 @@ const BLOG = {
     world of tech-industry 🚀
   `,
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'dark', // ['light', 'dark', 'auto'],
   font: 'sans', // ['sans-serif', 'serif']
   lightBackground: '#F7F7F7', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#000000', // use hex value, don't forget '#'
